@@ -1,4 +1,9 @@
                                                  //problem1//
+
+
+
+
+
 ALGORITHM algorithm_name
 VAR
  ahmed : ARRAY_OF INTEGER[15];
